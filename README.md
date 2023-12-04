@@ -47,7 +47,7 @@ After studying a web programming course at my university, my group and I wanted 
 
 With my code, you can :
 
-* **Clone project: git clone https://github.com/HdThinh6102git/MotorbikeStoreWebsite/**
+* **Clone project: git clone https://github.com/tyteo1503/MotorbikeStoreWeb
 * **Import project into Eclipse**
 * **Update maven project**
 * **Import sql file into MySQL**
